@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/openai-mockup/static/css/main.ebb1b006.css",
-    "main.js": "/openai-mockup/static/js/main.92dc6a54.js",
+    "main.js": "/openai-mockup/static/js/main.c913a143.js",
     "static/media/ai.png": "/openai-mockup/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/openai-mockup/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blog01.png": "/openai-mockup/static/media/blog01.cefc0932eae0d33a0342.png",
@@ -13,10 +13,10 @@
     "static/media/logo.svg": "/openai-mockup/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/openai-mockup/index.html",
     "main.ebb1b006.css.map": "/openai-mockup/static/css/main.ebb1b006.css.map",
-    "main.92dc6a54.js.map": "/openai-mockup/static/js/main.92dc6a54.js.map"
+    "main.c913a143.js.map": "/openai-mockup/static/js/main.c913a143.js.map"
   },
   "entrypoints": [
     "static/css/main.ebb1b006.css",
-    "static/js/main.92dc6a54.js"
+    "static/js/main.c913a143.js"
   ]
 }
